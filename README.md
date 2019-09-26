@@ -15,5 +15,4 @@ It consits of following tasks:
 
 ### Here are some screenshots of the application ###
 
-(/Sreenshots/Capture1.png)
-Format: ![Alt Text](url)
+<img src='https://github.com/Shashwatjain31/Login_and_Registration/blob/master/Screenshots/Capture1.PNG' title='Login Screen' width='' alt='Login Screen' />
