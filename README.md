@@ -15,5 +15,5 @@ It consits of following tasks:
 
 ### Here are some screenshots of the application ###
 
-![GitHub Logo](/images/logo.png)
+(/Sreenshots/Capture1.png)
 Format: ![Alt Text](url)
